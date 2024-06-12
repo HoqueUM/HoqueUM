@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FollowUps**
 
-- :fire: I enjoy software development and machine learning
+- :fire: I enjoy software development, machine learning, and quantitative finance
 
 - :sunglasses: Driven weightlifter, ukulele player, and gamer
 
