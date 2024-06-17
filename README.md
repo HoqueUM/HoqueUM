@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rahul
 ### A passionate student at the University of Michigan
 
-- 🔭 I’m currently working on a **Light.gg API**
+- 🔭 I’m currently working on a **Light.gg API** and a **Umich Room Finder**
 
 - :fire: I enjoy software development, machine learning, and quantitative finance
 
